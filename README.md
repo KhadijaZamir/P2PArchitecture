@@ -6,9 +6,11 @@ This is a basic peer-to-peer chat application written in Java using sockets. It 
 
 ```
 
-P2Pv2/
+P2P/
 ├── Peer1.java
+└── Peer1.class
 └── Peer2.java
+└── Peer2.class
 
 ````
 
