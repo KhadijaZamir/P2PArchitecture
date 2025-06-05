@@ -1,8 +1,3 @@
-Sure! Here's the **exact content** to paste into your `README.md` file:
-
----
-
-```markdown
 # Java Peer-to-Peer Chat (P2P)
 
 This is a basic peer-to-peer chat application written in Java using sockets. It allows two users to chat between two different computers (or on the same machine using different ports).
